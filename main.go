@@ -1,8 +1,8 @@
 package main
 
 import (
+	"github.com/hedeqiang/framework/framework"
 	"net/http"
-	"github.com/hedeqiang/hike/framework"
 )
 
 func main() {
